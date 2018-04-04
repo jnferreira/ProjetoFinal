@@ -4,12 +4,16 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { MainComponent } from './main/main.component';
+import { MeuCatalogoComponent } from './meu-catalogo/meu-catalogo.component';
+import { MeusProdutosComponent } from './meus-produtos/meus-produtos.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    MainComponent
+    MainComponent,
+    MeuCatalogoComponent,
+    MeusProdutosComponent
   ],
   imports: [
     BrowserModule

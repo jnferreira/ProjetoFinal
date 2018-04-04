@@ -1,12 +1,12 @@
-#navMain{
+#navMain {
   font-size: large;
 }
 
-#navMain li{
+#navMain li {
   padding-left: 70px;
 }
 
-#main{
+#main {
   height: 500px;
   margin-top: 50px;
 }
